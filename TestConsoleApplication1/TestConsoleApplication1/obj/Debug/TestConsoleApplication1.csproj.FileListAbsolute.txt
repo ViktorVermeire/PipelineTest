@@ -1,6 +1,0 @@
-C:\Users\viktorlouish.vermeir\Work\Test\PipelineTest\TestConsoleApplication1\TestConsoleApplication1\bin\Debug\TestConsoleApplication1.exe
-C:\Users\viktorlouish.vermeir\Work\Test\PipelineTest\TestConsoleApplication1\TestConsoleApplication1\bin\Debug\TestConsoleApplication1.pdb
-C:\Users\viktorlouish.vermeir\Work\Test\PipelineTest\TestConsoleApplication1\TestConsoleApplication1\obj\Debug\TestConsoleApplication1.csproj.AssemblyReference.cache
-C:\Users\viktorlouish.vermeir\Work\Test\PipelineTest\TestConsoleApplication1\TestConsoleApplication1\obj\Debug\TestConsoleApplication1.csproj.CoreCompileInputs.cache
-C:\Users\viktorlouish.vermeir\Work\Test\PipelineTest\TestConsoleApplication1\TestConsoleApplication1\obj\Debug\TestConsoleApplication1.exe
-C:\Users\viktorlouish.vermeir\Work\Test\PipelineTest\TestConsoleApplication1\TestConsoleApplication1\obj\Debug\TestConsoleApplication1.pdb
